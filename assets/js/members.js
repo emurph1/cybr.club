@@ -81,10 +81,10 @@ const officers = [
     position: "Event Coordinator",
     image: "assets/img/officers/resized/emily_murphy.jpg",
     socials: {
-        linkedin: "",
-        github: "",
+        linkedin: "https://www.linkedin.com/in/murphe22/",
+        github: "https://github.com/emurph1",
         email: "tamucybersec@gmail.com",
-        website: ""
+        website: "https://emilymurphy.me"
     }
   },
   {
